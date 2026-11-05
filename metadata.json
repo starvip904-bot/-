@@ -1,0 +1,6 @@
+{
+  "name": "TAJER",
+  "description": "إدارة محلك أسهل — نظام متكامل لإدارة متاجر الملابس والأحذية في مصر، نقاط البيع والمخزون والعملاء والمصروفات والتقارير.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
